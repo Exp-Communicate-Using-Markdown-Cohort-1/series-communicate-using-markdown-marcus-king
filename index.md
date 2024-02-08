@@ -9,10 +9,16 @@
 
 &nbsp;
 
-### Code Block
+## Code Block
 ```
 $ mkdir ~/.dotfiles
 $ cd ~/.dotfiles
 $ git init --bare .
 Initialized empty Git repository in /home/user/.dotfiles/
 ```
+
+&nbsp;
+
+## Task List
+- [x] This item is complete
+- [ ] This item is not complete
